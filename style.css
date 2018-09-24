@@ -1,0 +1,16 @@
+* {
+	transition: 0.1s;
+}
+
+#stratos {
+	position: absolute;
+	transform: rotateY(180deg);
+}
+
+table {
+	border-collapse: collapse;
+}
+
+tr, td {
+	border: 5px solid #000066;
+}
